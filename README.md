@@ -18,7 +18,7 @@
   </p>
 </div>
 
-![TodolistApp preview](./public/todolistapp.prev.png)
+![TodolistApp preview](./public/todolistapp_prev.png)
 
 # Features
 
@@ -28,7 +28,7 @@
 - **Local Storage** Integration: Tasks are saved in local storage and persist after reloading the page.
 - **Responsive Design:** Optimized for various screen sizes.
 
-![TodolistApp preview](./public/todolistapp.prev.png)
+![TodolistApp preview](./public/todolistapp_prev1.png)
 
 ## Technologies Used
 
