@@ -42,7 +42,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/V3n0nX/To-Do-List-App.git
+    git clone https://github.com/V3n0nX/to-do-list-app.git
     cd your-repo
     ```
 
