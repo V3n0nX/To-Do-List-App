@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <h1 align="center">Metaversus</h1>
+  <h1 align="center">To-Do List App</h1>
   <p>
     A responsive and interactive to-do list application built with React.</br>
     This app helps users manage their daily tasks efficiently by adding, completing, and deleting items.</br>
